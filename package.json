@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "description": "Preproute admin test management application built with Next.js, React, TypeScript, and the provided staging APIs.",
   "private": true,
+  "packageManager": "pnpm@10.14.0",
   "engines": {
     "node": ">=20.11.0",
-    "pnpm": ">=11.0.0"
+    "pnpm": ">=10.0.0 <11.0.0"
   },
   "scripts": {
     "dev": "next dev -p 3000",
